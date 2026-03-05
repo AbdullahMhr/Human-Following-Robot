@@ -1,16 +1,9 @@
 // Firebase Configuration (UNCHANGED BACK-END LOGIC)
-import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js';
-import { getDatabase, ref, set, onValue, update } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js';
+import { initializeApp } from 'firebase_url';
+import { getDatabase, ref, set, onValue, update } from 'firebase_url';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBmzvlfzW1BdsmEoo-dAuuEjeV6YdNLsJ8",
-  authDomain: "human-following-robot-e346c.firebaseapp.com",
-  databaseURL: "https://human-following-robot-e346c-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "human-following-robot-e346c",
-  storageBucket: "human-following-robot-e346c.firebasestorage.app",
-  messagingSenderId: "907844108242",
-  appId: "1:907844108242:web:0b5e92a887b631ed54920b",
-  measurementId: "G-SD1LW6XTE9"
+  YOUR_SECRET_KEY
 };
 
 // Initialize Firebase
