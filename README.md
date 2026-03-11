@@ -1,5 +1,8 @@
 # 🤖 Smart Workshop Human-Following Robot (IoT + Robotics)
 
+
+![1](https://github.com/user-attachments/assets/3d5d1b6f-210c-47b1-850a-e1bab2c7a106)
+
 A **Smart Workshop Tool-Carrying and Human-Following Robot** built using **ESP32 and Firebase Realtime Database**.  
 This project combines **Robotics, IoT, and Web Technologies** to create a robot that can be controlled remotely and monitor environmental conditions in real time.
 
@@ -128,6 +131,9 @@ The ESP32 continuously updates sensor data to Firebase and the dashboard listens
 ---
 
 # 📊 Web Dashboard
+
+<img width="1872" height="848" alt="WebPage" src="https://github.com/user-attachments/assets/0a06db81-a771-4212-80bb-37395974a1d6" />
+
 
 The dashboard provides **real-time monitoring and manual control** of the robot.
 
